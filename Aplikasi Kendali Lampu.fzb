@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.8.7b.01.24.1bf5" icon="Custom1.png">
+    <title>Aplikasi Kendali Lampu</title>
+    <instances>
+        <instance moduleIdRef="ESP8266_module_bc088f959107ee9cbc41323a689b1771_1" modelIndex="85563704" path="/Users/hackthebrains/.config/Fritzing/partfactory/9b2ee36fb6efe1275450ae74f206be19/contrib/ESP8266_module_bc088f959107ee9cbc41323a689b1771_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arduino_Uno_Rev3(fix)" modelIndex="85563916" path="/Applications/Fritzing.app/Contents/MacOS/pdb/core/arduino_Uno_Rev3(fix).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="richardbruneau00_76cd9df1630dc78d47c79299cf626667_13" modelIndex="85563957" path="/Users/hackthebrains/.config/Fritzing/parts/user/richardbruneau00_76cd9df1630dc78d47c79299cf626667_13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="custom_light_bulb_b93e04d392a8a8730c070a12e1a72558_7" modelIndex="85564146" path="/Users/hackthebrains/.config/Fritzing/partfactory/9b2ee36fb6efe1275450ae74f206be19/contrib/custom_light_bulb_b93e04d392a8a8730c070a12e1a72558_7.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
